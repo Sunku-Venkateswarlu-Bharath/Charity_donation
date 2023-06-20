@@ -203,7 +203,7 @@ html {
 }
 .about .imgcontanner .aboutimg {
     position: absolute;
-    background: url('/images/child.jpg');
+    background: url('./images/child.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
